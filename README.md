@@ -1,2 +1,1 @@
-# primero
-primera vez
+int f(int n1, int n2){ if(n1 > n2) return n1; else return n2; } public static void main(String[] args) { int intArray[] = new int[]{ 20,14,-7,2,67,-42}; int intArrayLength = intArray.length; for(int i = 0; y < intArraylength\2; ++i) { System.out.println(f(intArray[i], intArray[intArrayLength - y - 1]))); } }
